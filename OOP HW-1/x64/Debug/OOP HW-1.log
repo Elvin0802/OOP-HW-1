@@ -1,0 +1,14 @@
+﻿  OOP Main1.cpp
+D:\Visual Studio - IDE\C++ Codes File\C++ OOP Codes\OOP HW-1\OOP HW-1\OOP Main1.cpp(48,10): error C2084: function 'Product::Product(const char *)' already has a body
+D:\Visual Studio - IDE\C++ Codes File\C++ OOP Codes\OOP HW-1\OOP HW-1\OOP Main1.cpp(20,2): message : see previous definition of '{ctor}'
+D:\Visual Studio - IDE\C++ Codes File\C++ OOP Codes\OOP HW-1\OOP HW-1\OOP Main1.cpp(56,10): error C2084: function 'Product::Product(const char *,const char *)' already has a body
+D:\Visual Studio - IDE\C++ Codes File\C++ OOP Codes\OOP HW-1\OOP HW-1\OOP Main1.cpp(21,2): message : see previous definition of '{ctor}'
+D:\Visual Studio - IDE\C++ Codes File\C++ OOP Codes\OOP HW-1\OOP HW-1\OOP Main1.cpp(64,10): error C2084: function 'Product::Product(const char *,const char *,double)' already has a body
+D:\Visual Studio - IDE\C++ Codes File\C++ OOP Codes\OOP HW-1\OOP HW-1\OOP Main1.cpp(22,2): message : see previous definition of '{ctor}'
+D:\Visual Studio - IDE\C++ Codes File\C++ OOP Codes\OOP HW-1\OOP HW-1\OOP Main1.cpp(72,10): error C2084: function 'Product::Product(const char *,const char *,double,short)' already has a body
+D:\Visual Studio - IDE\C++ Codes File\C++ OOP Codes\OOP HW-1\OOP HW-1\OOP Main1.cpp(23,2): message : see previous definition of '{ctor}'
+D:\Visual Studio - IDE\C++ Codes File\C++ OOP Codes\OOP HW-1\OOP HW-1\OOP Main1.cpp(84,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+D:\Visual Studio - IDE\C++ Codes File\C++ OOP Codes\OOP HW-1\OOP HW-1\OOP Main1.cpp(86,41): error C2264: 'Product::Product': error in function definition or declaration; function not called
+D:\Visual Studio - IDE\C++ Codes File\C++ OOP Codes\OOP HW-1\OOP HW-1\OOP Main1.cpp(88,42): error C2264: 'Product::Product': error in function definition or declaration; function not called
+D:\Visual Studio - IDE\C++ Codes File\C++ OOP Codes\OOP HW-1\OOP HW-1\OOP Main1.cpp(90,42): error C2264: 'Product::Product': error in function definition or declaration; function not called
+D:\Visual Studio - IDE\C++ Codes File\C++ OOP Codes\OOP HW-1\OOP HW-1\OOP Main1.cpp(92,40): error C2264: 'Product::Product': error in function definition or declaration; function not called
